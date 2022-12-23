@@ -2,7 +2,7 @@
 pragma solidity ^0.8.7;
 
 contract Counter { 
-    // state variable count, to increase and decrease
+    // state variable count, to be increased and decreased
     uint public count;
     
     // standard get function
